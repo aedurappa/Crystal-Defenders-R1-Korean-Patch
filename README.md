@@ -17,7 +17,7 @@ CRYSTAL DEFENDERS R1의 비공식 한국어화 프로젝트입니다.
 
 최신 패치는 [Releases](../../releases)에서 받을 수 있습니다.
 
-## xdelta 패치 적용 방법
+## 오토 패치 적용 방법
 
 1. 원본 게임 이미지의 MD5를 확인합니다.
 2. MD5가 `b7ec0eb67be52d2f51b55b4bfdcb3d13`인지 확인합니다.
